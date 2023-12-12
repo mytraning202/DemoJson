@@ -1,0 +1,64 @@
+{
+  "categories": [
+    {
+      "name": "Birthday",
+      "frames": [
+        {
+          "name": "Frame 1",
+          "single_frames_image": "http://example.com/birthday_frame1_single.jpg",
+          "thumbnail_image": "http://example.com/birthday_frame1_thumbnail.jpg"
+        },
+        {
+          "name": "Frame 2",
+          "single_frames_image": "http://example.com/birthday_frame2_single.jpg",
+          "thumbnail_image": "http://example.com/birthday_frame2_thumbnail.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Love",
+      "frames": [
+        {
+          "name": "Frame 1",
+          "single_frames_image": "http://example.com/love_frame1_single.jpg",
+          "thumbnail_image": "http://example.com/love_frame1_thumbnail.jpg"
+        },
+        {
+          "name": "Frame 2",
+          "single_frames_image": "http://example.com/love_frame2_single.jpg",
+          "thumbnail_image": "http://example.com/love_frame2_thumbnail.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Anniversary",
+      "frames": [
+        {
+          "name": "Frame 1",
+          "single_frames_image": "http://example.com/anniversary_frame1_single.jpg",
+          "thumbnail_image": "http://example.com/anniversary_frame1_thumbnail.jpg"
+        },
+        {
+          "name": "Frame 2",
+          "single_frames_image": "http://example.com/anniversary_frame2_single.jpg",
+          "thumbnail_image": "http://example.com/anniversary_frame2_thumbnail.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Nature",
+      "frames": [
+        {
+          "name": "Frame 1",
+          "single_frames_image": "http://example.com/nature_frame1_single.jpg",
+          "thumbnail_image": "http://example.com/nature_frame1_thumbnail.jpg"
+        },
+        {
+          "name": "Frame 2",
+          "single_frames_image": "http://example.com/nature_frame2_single.jpg",
+          "thumbnail_image": "http://example.com/nature_frame2_thumbnail.jpg"
+        }
+      ]
+    }
+  ]
+}
